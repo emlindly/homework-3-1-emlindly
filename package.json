@@ -1,0 +1,22 @@
+{
+  "name": "homework-3-1-emlindly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emlindly/homework-3-1-emlindly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emlindly/homework-3-1-emlindly/issues"
+  },
+  "homepage": "https://github.com/emlindly/homework-3-1-emlindly#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
